@@ -1,4 +1,4 @@
-﻿# rMATS-turbo
+﻿# DAS with rMATS-turbo
 **Purpose -** Identifies differential alternative splicing (DAS) events between two different RNA-seq samples. (such as bloodfed vs RVFV)
 **Input -** .fastq.gz files from fastp outputs.
 **Output -** .txt files containing information on the different alternative splicing events, as well as summary and metadata information. These can be used with subsequent scripts to make .csv files with DAS information.
